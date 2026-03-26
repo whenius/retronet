@@ -1318,3 +1318,37 @@ header .BlogSearch form.srhToggle.is-open::before,header .BlogSearch form.srhTog
     gap:4px!important;
   }
 }
+.mobMn li svg{
+  display:none !important;
+}
+
+/* icon container */
+.mobMn li >*{
+  width:auto !important;
+  height:auto !important;
+  min-width:auto !important;
+  background-size:contain !important;
+  background-repeat:no-repeat !important;
+  background-position:center !important;
+}
+
+/* tek tek iconlar */
+.mobMn .mH >*{
+  background-image:url('https://i.hizliresim.com/qwueowc.png') !important;
+}
+
+.mobMn .mS >*{
+  background-image:url('https://i.hizliresim.com/qwueowc.png') !important;
+}
+
+.mobMn .mN >*{
+  background-image:url('https://i.hizliresim.com/qwueowc.png') !important;
+}
+
+.mobMn .mD >*{
+  background-image:url('https://i.hizliresim.com/qwueowc.png') !important;
+}
+
+.mobMn .mC >*{
+  background-image:url('https://i.hizliresim.com/qwueowc.png') !important;
+}
